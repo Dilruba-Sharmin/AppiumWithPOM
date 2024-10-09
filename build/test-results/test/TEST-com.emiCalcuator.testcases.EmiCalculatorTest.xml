@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.emiCalcuator.testcases.EmiCalculatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-10-03T11:33:12" hostname="DILRUBA-DEV" time="65.409">
+  <properties/>
+  <testcase name="calculateEmiShouldSucceed1" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="15.957"/>
+  <testcase name="checkDetailBtn" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="0.104"/>
+  <testcase name="calculateEmiShouldSucceed2[0](50002.0, 8.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="7.506"/>
+  <testcase name="calculateEmiShouldSucceed2[1](50003.0, 9.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="7.118"/>
+  <testcase name="calculateEmiShouldSucceed2[2](50004.0, 10.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="6.728"/>
+  <testcase name="calculateEmiShouldSucceed2[3](50005.0, 11.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="6.941"/>
+  <testcase name="calculateEmiShouldSucceed2[4](50006.0, 12.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="7.003"/>
+  <testcase name="calculateEmiShouldSucceed2[5](50007.0, 13.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="6.548"/>
+  <testcase name="calculateEmiShouldSucceed2[6](50008.0, 14.5)" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="6.048"/>
+  <testcase name="checkResetBtn" classname="com.emiCalcuator.testcases.EmiCalculatorTest" time="0.833"/>
+  <system-out><![CDATA[50002.0
+8.5
+50003.0
+9.5
+50004.0
+10.5
+50005.0
+11.5
+50006.0
+12.5
+50007.0
+13.5
+50008.0
+14.5
+]]></system-out>
+  <system-err><![CDATA[ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+]]></system-err>
+</testsuite>
